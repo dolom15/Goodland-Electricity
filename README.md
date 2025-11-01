@@ -1,1 +1,1 @@
-# Goodland-Electricity
+# Goodland-Electricity This code calculates the minimum number of pylons needed to cover all cities, placing each pylon on a suitable city within range `k` and skipping covered cities. If it is impossible to cover all cities, it returns `-1`; otherwise, it returns the total count of pylons used.
